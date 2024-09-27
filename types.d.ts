@@ -1,4 +1,4 @@
-import Knex from 'knex';
+import { Knex } from 'knex';
 
 interface AdditionalOptions {
   postProcessResponse(content: string, queryContext: any): string;

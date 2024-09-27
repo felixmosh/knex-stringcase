@@ -10,7 +10,8 @@
     "files": [
         "build-converter.js",
         "build-key-converter.js",
-        "index.js"
+        "index.js",
+        "types.d.ts"
     ],
     "repository": {
         "type": "git",
